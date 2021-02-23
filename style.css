@@ -2,3 +2,97 @@
     height: 30px;
     border-radius: 100%;
 }
+#index-container,
+#portfolio-container,
+#contact-container {
+    margin-top: 5em;
+}
+#portfolio-row{
+    
+}
+.porfolio-img{
+  border-radius: 10px;
+  border: .05px solid rgb(221, 221, 221);
+  align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 98%;
+  
+}
+.captionHead{
+    color: black;
+    margin-top: 2rem;
+    text-align: center;
+    text-size-adjust: 90%;
+    text-size-adjust: auto;
+    margin-bottom: 2rem;
+}
+.figure{
+    border-radius: 10px;
+    color: black;
+    width: 330px;
+    height: 500px;
+    align-content: center;
+    padding: 20px;
+}
+.captionBody{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 20px;
+    
+}
+.figure-caption{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    align-content: stretch;
+    padding-right: 3px;
+    padding-left: 3px;
+    margin-bottom: 20px;
+}
+.btn-outline-secondary{
+    color: green;
+    width: 140px;
+    height: 40px;
+    margin: 5px;
+}
+.accordion-button{
+    color: green;
+    border-radius: 10px;
+    border-width: 0px;
+    font-weight: lighter;
+
+}
+.contact-info{
+    text-align: justify;
+    line-height: 30px;
+}
+
+#contact-card,
+#index-card,
+#big-card-body,
+#index-right{
+    border-radius: 20px;
+}
+#contact-card-img,
+#index-card-img,
+.card-img-top{
+    border-radius: 10px;
+}
+#contact-card-body{
+    text-align: justify;
+}
+#big-quote{
+    border-radius: 30px;
+    margin: auto;
+    padding: 20px;
+}
+.lead{
+    text-align: right;
+}
+.accordion-header{
+    text-align: right;
+
+}
